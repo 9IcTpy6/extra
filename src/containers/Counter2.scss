@@ -1,0 +1,13 @@
+.Counter2Wrapper{
+  flex: 1 1 auto;
+  flex-grow: 1;
+  overflow-x: hidden;
+  background: maroon;
+  min-height: 100vh;
+}
+.counter2{
+  color: white;
+  margin-left: 50%;
+  margin-top: 10%;
+  font-size: 50px;
+}

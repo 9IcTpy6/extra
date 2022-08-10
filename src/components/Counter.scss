@@ -1,0 +1,30 @@
+.Counter-logo{
+  font-size: 30px;
+  color: burlywood;
+  text-align: center;
+}
+.buttonBlock{
+  display: flex;
+  flex-direction: row;
+  padding: 0 47%;
+}
+
+.buttonadd{
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #4676D7;
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+.buttonsub{
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: red;
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 16px;
+}

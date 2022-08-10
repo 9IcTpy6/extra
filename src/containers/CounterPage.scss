@@ -1,0 +1,21 @@
+.CounterWrapper{
+  flex: 1 1 auto;
+  flex-grow: 1;
+  background: #282c34;
+}
+.text1{
+  text-align: center;
+  color: azure;
+}
+
+.btnshow{
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: green;
+  color: #fff;
+  padding: 8px 100px;
+  font-size: 16px;
+  margin: 0 auto;
+  display: block;
+}
